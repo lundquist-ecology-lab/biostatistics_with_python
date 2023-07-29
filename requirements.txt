@@ -1,0 +1,18 @@
+# Install using 'python3 -m pip install -r requirements.txt'
+# Math, statistics and machine learning (ML)
+pandas
+numpy
+scikit-learn
+seaborn
+random2
+statsmodels
+
+# Data
+palmerpenguins # Can also be found in seaborn
+
+# Data importing
+openpyxl
+xlrd
+
+# Utilities
+jupyterlab-spellchecker
