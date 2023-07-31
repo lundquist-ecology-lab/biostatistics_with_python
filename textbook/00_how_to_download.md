@@ -8,3 +8,4 @@ svn export https://github.com/lundquist-ecology-lab/biostatistcs_with_python/tru
 
 This will download the textbook off of GitHub and create a folder called "textbook" that will have all of the .ipynb and image files associated with the textbook and images.
 
+![](../images/download_textbook.gif)
