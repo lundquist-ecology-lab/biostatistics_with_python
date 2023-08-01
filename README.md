@@ -17,10 +17,10 @@ Step 2: Create user accounts for access to course content
 
 How to create a GitHub account:
 
-Step 1:  Go to [https://github.com](https://github.com) and click on `Sign Up`
-Step 2: Enter your email address, create a username, and a strong password
-Step 3: GitHub will send you an email with a first-time code. Find that code and enter it on this page.
-Step 4: You are now logged in
+1. Go to [https://github.com](https://github.com) and click on `Sign Up`
+2. Enter your email address, create a username, and a strong password
+3. GitHub will send you an email with a first-time code. Find that code and enter it on this page.
+4. 4: You are now logged in
 
 ![](images/github.gif)
 
@@ -33,20 +33,19 @@ Step 3: Log into the course pages
 - [Brightspace](mmm.brightspace.com) using your official MMC credentials
 - [GriffyStats JupyerHub](python.griffystats.com) following the steps below:
   
-Step 1: Go to [https://Python.GriffyStats.com](https://Python.GriffyStats.com)
-
-Step 2: Click on `Sign in with GitHub` 
+1. Go to [https://Python.GriffyStats.com](https://Python.GriffyStats.com)
+2. Click on `Sign in with GitHub` 
 
 If you are not signed in you will need to enter your username and password for GitHub. After that, or if you are already 
 logged in your will be prompted to click on `Authorize "YOUR USER NAME"`.
 
-Step 3: Your username will _automatically be blocked_ and you will see this screen. _Email_ your username to Dr. Lundquist (mlundquist@mmm.edu) so he can manually add your username to the authorized user list.
+3. Your username will _automatically be blocked_ and you will see this screen. _Email_ your username to Dr. Lundquist (mlundquist@mmm.edu) so he can manually add your username to the authorized user list.
 
 **Note: Please give Dr. Lundquist 24 hours to add your name to the authorized user list. He will send you a confirmation email**
 
   ![](images/login1.gif)
 
-Step 4: Once you have been authorized, go back to [https://Python.GriffyStats.com](https://Python.GriffyStats.com) and click on `Log in with GitHub`
+4. Once you have been authorized, go back to [https://Python.GriffyStats.com](https://Python.GriffyStats.com) and click on `Log in with GitHub`
 
   ![](images/login2.gif)
 
