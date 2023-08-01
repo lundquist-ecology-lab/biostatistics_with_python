@@ -41,7 +41,7 @@ logged in your will be prompted to click on `Authorize "YOUR USER NAME"`.
 
 3. Your username will _automatically be blocked_ and you will see this screen. _Email_ your username to Dr. Lundquist (mlundquist@mmm.edu) so he can manually add your username to the authorized user list.
 
-**Note: Please give Dr. Lundquist 24 hours to add your name to the authorized user list. He will send you a confirmation email**
+**Note: Please give Dr. Lundquist 24 hours to add your name to the authorized user list. He will send you a confirmation email.**
 
   ![](images/login1.gif)
 
