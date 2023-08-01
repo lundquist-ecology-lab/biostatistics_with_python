@@ -20,7 +20,7 @@ How to create a GitHub account:
 1. Go to [https://github.com](https://github.com) and click on `Sign Up`
 2. Enter your email address, create a username, and a strong password
 3. GitHub will send you an email with a first-time code. Find that code and enter it on this page.
-4. 4: You are now logged in
+4. You are now logged in
 
 ![](images/github.gif)
 
