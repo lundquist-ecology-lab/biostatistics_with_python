@@ -1,12 +1,7 @@
 # Biostatistics (Biol 218) with Python textbook and assignments
 
-Welcome to the GitHub repository for the textbook and assignments for Biostatistics (Biol 218) at Marymount Manhattan College.
-In this course, we will be using the `Python` programming language through the use of Jupyter notebooks to
-present information, work through problems, and produce statistical reports.
-
+Welcome to the GitHub repository for the textbook and assignments for Biostatistics (Biol 218) at Marymount Manhattan College. In this course, we will be using the `Python` programming language through the use of Jupyter notebooks to present information, work through problems, and produce statistical reports.
 ## Quick Start Guide
-
-A complete walkthrough video can be found [here]()
 
 Step 1: Read the [syllabus here](syllabus.md)
 
@@ -51,4 +46,4 @@ logged in your will be prompted to click on `Authorize "YOUR USER NAME"`.
 
 You should now be brought to your personal JupyterHub instance. THere is where you will interact with the textbook and work on assignments for the course.
 
-
+![](images/lab_logo.png)
