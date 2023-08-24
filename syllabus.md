@@ -19,15 +19,15 @@ Office hours: By appointment either in-person or remote
 ### Required materials
 
 - Free Google account (For YouTube chat)
-- Free GitHub account (For access to Python.GriffyStats.com)
-- Working Laptop, desktop, or tablet with keyboard
+- Free GitHub account (For access to [Python.GriffyStats.com](Python.GriffyStats.com))
+- Working Laptop, desktop, or tablet with keyboard with an internet connection
   - Windows, Mac, Linux, ChromeOS, PadOS, iOS, Android all work!
 
 ###  Optional materials
 
 Optional textbook(s): 
 - Whitlock & Schluter (2019). The analysis of biological data (3rd edition). W. H. Freeman. ISBN: 9781319226299
-- OpenStax Introductory Statistics is available, but is much more limited than Whitlock book
+- [OpenStax Introductory Statistics](https://openstax.org/books/introductory-statistics/pages/1-introduction) is available, but is much more limited than Whitlock book
 ### Course description
 
 Much of what we know about the biological world is based on rigorous collection and analysis of data. By the end of this course, students will be able to:
@@ -39,15 +39,15 @@ Much of what we know about the biological world is based on rigorous collection 
 
 ## Course expectations
 
-Students success in this class depends on your input and effort. Biostatistics is a large and complex subject, and all the material cannot be adequately covered just during the weekly class meetings. There will be no traditional lectures in this course. Instead, class work each week will be dividing into asynchronous and synchronous days.
+A student's success in this class depends on their input and effort. Biostatistics is a large and complex subject, and all the material cannot be adequately covered just during the weekly class meetings. There will be no traditional lectures in this course. Instead, class work each week will be dividing into asynchronous and synchronous days
 
-**On Tuesdays**: Students will work asynchronously (on their own time) on assigned readings in the course textbook, watch short videos related to the week’s topics on YouTube, and work on assigned problems to using content from that week.
+**On Tuesdays**: Students will work asynchronously (on their own time) on assigned readings in the course textbook, watch short videos related to the week’s topics on YouTube, and work on assigned problems to using content from that week. Dr. Lundquist may stream content on YouTube on Tuesdays to supplement materials from the week. Attendance is optional. Those streams will be recorded and made available.
 
-**On Thursdays**: Students will tune in to a live, unlisted stream on YouTube.com where the professor will work through example problems related to the content for that week. While students will not be required to participate on video, they are expected to ask questions and participate in discussions through the chat functionality. Students will need to sign into YouTube to use the chat. Attendance is mandatory during theses sessions and attendance will be taken via poll during the beginning of the stream.
+**On Thursdays**: Students will tune in to a **live**, unlisted stream on YouTube.com where Dr. Lundquist will work through example problems related to the content for that week. While students will not be required to participate on video, they are expected to ask questions and participate in discussions through the chat functionality. *Students will need to sign into YouTube to use the chat.* **Attendance is mandatory** during theses sessions and attendance will be taken via poll released within the first 30 mins of the stream. Short, in-class activities will also be periodically assigned during the streams.
 
-It is the responsibility of each student to manage their time well and work through assignments in a timely manner. 
+It is the responsibility of each student to manage their time well and work through assignments in a timely manner.
 
-Office hours will be offered regularly for assistance with content, coding, troubleshooting, or any other concern. **Office hours can be scheduled by emailing Dr. Lundquist at mlundquist@mmm.edu**
+Office hours will be offered regularly for assistance with content, coding, troubleshooting, or any other concern. **Office hours can be scheduled by emailing Dr. Lundquist at mlundquist@mmm.edu**.
 
 ## Grading
 
@@ -55,15 +55,19 @@ Office hours will be offered regularly for assistance with content, coding, trou
 
     Professor Lundquist will provide a prompt for each portfolio section on GitHub. Portions of the portfolio will be submitted as .ipynb Jupyter Notebook files on Brightspace by 11:59 pm on the day they are due. See tentative calendar for particular due dates. Students may work collaboratively on portfolios, but all work must be submitted in their own words (this includes the use of generative AI, e.g., ChatGPT)
 
-    Portfolios will be graded on completeness, accuracy, and lack of errors. All errors in code (bugs) must be fixed before final submission to receive full credit. ***Debugging is a great use of office hours!**
+    Portfolios will be graded on completeness, accuracy, and lack of errors. All errors in code (bugs) must be fixed before final submission to receive full credit. **Debugging is a great use of office hours!**
 
 2. Pop quizzes (200 points): A number of short “pop” quizzes based on the most recent content will be assigned during the Thursday live stream. Dr. Lundquist will provide a problem in an .pynb file to solve. A complete and accurate .ipynb report with the answer(s) will need to be submitted via Brightspace on the due date indicated. These could be assigned during any live stream. Students are expected to solve these problems independently.
 
 3. Independent statistical project (300 points): Towards the end of the semester, students will be given a choice of data to analyze independently. Students will prepare a short (2-3 page) report of their findings, including the statistical analyses, graphical outputs, and interpretation. This will be submitted as a .ipynb Jupyter Notebook file.
 
+Note: Generative AI (e.g., ChatGPT) is a great resource for checking your code, however, using generative AI to produce your code (for portfolios, pop quizzes, or independent studies) will be considered plagiarism and result in a low score or a score of zero, depending on the level of plagiarism. To avoid this all code/statistical techniques must be in the same format presented in the course textbook. I will not consider that plagiarism. Any other techniques/formats will not be accepted.
+    
+**It is OK to copy and paste and then modify code from the textbook, it is not OK to copy and paste from generative AI.**
+
 4. Participation (100 points): This course will rely heavily on in-class discussions and activities done individually or in groups during the class sessions. Participation is key to success in this class. Also, statistics is not learned by everyone at the same pace and students are highly encouraged to work together and help each other out during discussions. Collaboration will also go towards participation grades. Participation will always be considered when tabulating final grades.
    
-  Participation will be determined according to attendance and in-class activity submissions.
+Participation will be determined according to attendance and participation in in-class assignments.
 
 Total = 1000
 
@@ -81,29 +85,6 @@ Total = 1000
 | C-    | 685 - 719 | 68.5% - 71.9%    |
 | D     | 600 - 684 | 60% - 67.9%      |
 | F     | < 600     | < 60%            |
-
-
-## Schedule
-
-| Week | Dates       | Topic                                            | Assignment              |
-|------|-------------|--------------------------------------------------|-------------------------|
-| 01   | 09/05-09/07   | The Role of Statistics in Biological Sciences     | |
-| 02   | 09/12-09/14   | Fundamentals of Data in Scientific Research: Variables, Collection, and Bias                      |     |
-| 03   | 09/19-09/21   | Fundamentals of Python and using Jupyter Notebooks (Appendix 1-4) | Python intro assignment due 9/28|
-| 04   | 09/26-09/28   | Describing data visually | |
-| 05   | 10/03-10/05   | Describing data: Summary Statistics in Python for Biostatistics |  |
-| 06   | 10/10-10/12   | Uncertainty: Standard Error and 95% Confidence Intervals                           |Portfolio 01 due 10/19|
-| 07   | 10/17-10/19   | Probability: Basic probability and Bayes' Theorem |  |
-| 08   | 10/24-10/26   | Hypothesis testing and Experimental Design | Portfolio 02 due 11/02|
-| 09   | 10/31-11/02   | Binomial Distribution and Binomial Test                           |                         |
-| 10   | 11/07-11/09   | $\chi^2$ Test for Independence and Goodness-of-Fit Test            | Portfolio 03 due 11/16  |
-| 11   | 11/14-11/16   | Normal Distribution and Parametric Tests |  |
-| 12   | 11/21-11/23   |    |     |
-| 13   | 11/28-11/30   | Analysis of Variance (ANOVA)                               | Portfolio 04 due 12/14 |
-| 14   | 12/05-12/07   | Non-Parametric Statistical Tests |  |
-| 15   | 12/12-12/14   | Predictive Models: Correlation and Regression Analysis         | Portfolio 05 due 12/20 (Wednesday) |
-| 16   | 12/19-12/20   | Machine learning and AI| |  |
-
 
 ## Important policies
 ### Recording of Classes
@@ -172,3 +153,25 @@ cwc@mmm.edu
 212-759-5870
 
 231 E. 55th St. (in the 55th St. Residence Hall)
+
+## Schedule
+
+| Week | Dates       | Topic                                            | Assignment              |
+|------|-------------|--------------------------------------------------|-------------------------|
+| 01   | 09/05-09/07   | The Role of Statistics in Biological Sciences     | |
+| 02   | 09/12-09/14   | Fundamentals of Data in Scientific Research: Variables, Collection, and Bias                      |     |
+| 03   | 09/19-09/21   | Fundamentals of Python and using Jupyter Notebooks (Appendix 1-4) | Python intro assignment due 9/28|
+| 04   | 09/26-09/28   | Describing data visually | |
+| 05   | 10/03-10/05   | Describing data: Summary Statistics in Python for Biostatistics |  |
+| 06   | 10/10-10/12   | Uncertainty: Standard Error and 95% Confidence Intervals                           |Portfolio 01 due 10/19|
+| 07   | 10/17-10/19   | Probability: Basic probability and Bayes' Theorem |  |
+| 08   | 10/24-10/26   | Hypothesis testing and Experimental Design | Portfolio 02 due 11/02|
+| 09   | 10/31-11/02   | Binomial Distribution and Binomial Test                           |                         |
+| 10   | 11/07-11/09   | $\chi^2$ Test for Independence and Goodness-of-Fit Test            | Portfolio 03 due 11/16  |
+| 11   | 11/14-11/16   | Normal Distribution and Parametric Tests |  |
+| 12   | 11/21-11/23   | Final Project Assigned   |  Portfolio 04 due 11/30    |
+| 13   | 11/28-11/30   | Analysis of Variance (ANOVA)                               | |
+| 14   | 12/05-12/07   | Non-Parametric Statistical Tests | Portfolio 05 due 12/14  |
+| 15   | 12/12-12/14   | Predictive Models: Correlation and Regression Analysis         | Final project due 12/20 (Wednesday) |
+| 16   | 12/19-12/20   | Machine learning and AI| |  |
+
