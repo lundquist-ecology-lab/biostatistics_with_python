@@ -104,6 +104,7 @@ Total = 1000
 | 15   | 12/12-12/14   | Predictive Models: Correlation and Regression Analysis         | Portfolio 05 due 12/20 (Wednesday) |
 | 16   | 12/19-12/20   | Machine learning and AI| |  |
 
+
 ## Important policies
 ### Recording of Classes
 
