@@ -93,7 +93,7 @@ Please be aware that audio recording or photographing online or in-person classe
 
 ## Attendance
 
-This course is 100% remote and will meet at its regular time on Thursdays and all students are expected to attend during those days. Tuesdays will be asynchronous (see "Course expectations") To be successful in this class, you must attend all class meetings and all homework and in-class assignments must be handed in by their assigned times.
+This course is 100% remote and will meet at its regular time on Thursdays and all students are expected to attend during those days. Tuesdays will be asynchronous (see "Course expectations"). To be successful in this class, you must attend all class meetings and all homework and in-class assignments must be handed in by their assigned times.
 
 Students must notify Dr. Lundquist via email for any missed classes to make sure that they do not fall behind and that they have access to pop quizzes. Consistently missing class can negatively impact participation grades.
 
