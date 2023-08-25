@@ -2,7 +2,7 @@
 
 Welcome to the GitHub repository for the textbook and assignments for Biostatistics (Biol 218) at Marymount Manhattan College. In this course, we will be using the `Python` programming language through the use of Jupyter notebooks to present information, work through problems, and produce statistical reports.
 
-Link to [Textbook as HTML](https://htmlpreview.github.io/?https://github.com/lundquist-ecology-lab/biostatistics_with_python/blob/main/textbook/html/Biostatistics_Textbook.html)
+Link to [Textbook as HTML](https://htmlpreview.github.io/?https://github.com/lundquist-ecology-lab/biostatistics_with_python/blob/main/textbook/html/Biostats_Textbook.html)
 
 ## Quick Start Guide
 
