@@ -47,6 +47,6 @@ logged in your will be prompted to click on `Authorize "YOUR USER NAME"`.
 
   ![](images/login2.gif)
 
-You should now be brought to your personal JupyterHub instance. THere is where you will interact with the textbook and work on assignments for the course.
+You should now be brought to your personal JupyterHub instance. Here is where you will interact with the textbook and work on assignments for the course.
 
 <center><img src="images/lab_logo.png" alt="Lab Logo" style="width:200px; height=auto;">

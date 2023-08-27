@@ -65,9 +65,7 @@ Note: Generative AI (e.g., ChatGPT) is a great resource for checking your code, 
     
 **It is OK to copy and paste and then modify code from the textbook, it is not OK to copy and paste from generative AI.**
 
-4. Participation (100 points): This course will rely heavily on in-class discussions and activities done individually or in groups during the class sessions. Participation is key to success in this class. Also, statistics is not learned by everyone at the same pace and students are highly encouraged to work together and help each other out during discussions. Collaboration will also go towards participation grades. Participation will always be considered when tabulating final grades.
-   
-Participation will be determined according to attendance and participation in in-class assignments.
+3. Participation (100 points): Attending is key to success in this class. Also, statistics is not learned by everyone at the same pace and students are highly encouraged to work together and help each other out. However, all students must turn in their own work.Participation will be determined according to attendance and completion of in-class assignments (e.g., assigning questions from the textbook).
 
 Total = 1000
 
@@ -135,7 +133,7 @@ The Center for Academic Support and Tutoring, CAST, offers students of all grade
 
 ## Policies Against Discrimination and Harassment
 
-Marymount Manhattan College strives to create an academic environment that excludes all types of harassment and discrimination. We each have a responsibility to uphold these values. If you or someone you know has experienced bias, discrimination, harassment, or sexual misconduct, please use this form to file a report or email the Chief Equity, Diversity and Inclusion Officer or the Title IX Coordinator. 
+Marymount Manhattan College strives to create an academic environment that excludes all types of harassment and discrimination. We each have a responsibility to uphold these values. If you or someone you know has experienced bias, discrimination, harassment, or sexual misconduct, please use this form to file a report or email the Chief Equity, Diversity and Inclusion Officer or the Title IX Coordinator.
 
 Please be aware that all MMC staff and faculty members are “responsible employees”, which means that if you share a situation involving an incident of bias, discrimination, harassment, or sexual misconduct, they must share that information with the Chief Equity, Diversity and Inclusion Officer and Title IX Coordinator. Although faculty and staff are obligated to share this information, you are in control of how to proceed with a reported incident, including whether or not you wish to pursue a formal complaint. Our goal is to make sure you are aware of the range of options available to you and have access to the resources you need.
 
